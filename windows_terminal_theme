@@ -16,7 +16,6 @@ Install theme for windows Terminal
             "brightYellow": "#00EAFF",
             "cursorColor": "#11FF00",
             "cyan": "#8BE9FD",
-            //"foreground": "#F8F8F2",
             "foreground": "#edc542",
             "green": "#50FA7B",
             "name": "Mermaid",
