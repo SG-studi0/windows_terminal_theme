@@ -1,5 +1,5 @@
 Install theme for windows Terminal 
-1. Add to Default  "colorScheme": "Mermaid",
+1. Add to Default  "colorScheme": "DarkMode",
 2.
 
     {
@@ -18,7 +18,7 @@ Install theme for windows Terminal
             "cyan": "#8BE9FD",
             "foreground": "#edc542",
             "green": "#50FA7B",
-            "name": "Mermaid",
+            "name": "DarkMode",
             "purple": "#FF79C6",
             "red": "#FF5555",
             "selectionBackground": "#44475A",
